@@ -58,19 +58,19 @@
     "url": "https://www.carefoliohealth.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.carefoliohealth.com.ico",
     "slug": "carefolio-health",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 594,
-    "timeDay": 594,
-    "timeWeek": 594,
-    "timeMonth": 594,
-    "timeYear": 594,
+    "status": "up",
+    "uptime": "94.57%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "94.57%",
+    "uptimeMonth": "94.57%",
+    "uptimeYear": "94.57%",
+    "time": 747,
+    "timeDay": 747,
+    "timeWeek": 747,
+    "timeMonth": 747,
+    "timeYear": 747,
     "dailyMinutesDown": {
-      "2026-01-30": 0
+      "2026-01-30": 20
     }
   },
   {
