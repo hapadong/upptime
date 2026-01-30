@@ -9,6 +9,16 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
+  - name: Carefolio Health
+    url: https://www.carefoliohealth.com
+  - name: TXMSDG
+    url: https://www.txmsdg.org
+  - name: Vellum Privacy & Terms
+    url: https://hapadong.github.io/vellum
+  - name: Cloudfare
+    url: https://www.cloudflare.com
+  - name: Youtube
+    url: https://youtube.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
