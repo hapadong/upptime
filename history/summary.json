@@ -58,9 +58,9 @@
     "url": "https://www.carefoliohealth.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.carefoliohealth.com.ico",
     "slug": "carefolio-health",
-    "status": "up",
+    "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "96.40%",
+    "uptimeDay": "97.43%",
     "uptimeWeek": "97.26%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "98.57%",
@@ -70,6 +70,7 @@
     "timeMonth": 610,
     "timeYear": 614,
     "dailyMinutesDown": {
+      "2026-03-01": 0,
       "2026-02-28": 51,
       "2026-02-27": 37,
       "2026-02-26": 92,
@@ -93,19 +94,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.txmsdg.org.ico",
     "slug": "txmsdg",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 485,
     "timeDay": 554,
     "timeWeek": 523,
     "timeMonth": 502,
     "timeYear": 485,
-    "dailyMinutesDown": {
-      "2026-03-01": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vellum Privacy & Terms",
