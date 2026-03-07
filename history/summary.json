@@ -95,19 +95,19 @@
     "url": "https://www.txmsdg.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.txmsdg.org.ico",
     "slug": "txmsdg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 365,
-    "timeWeek": 458,
-    "timeMonth": 494,
-    "timeYear": 476,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 470,
+    "timeDay": 316,
+    "timeWeek": 439,
+    "timeMonth": 486,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2026-03-07": 0
+      "2026-03-07": 16
     }
   },
   {
